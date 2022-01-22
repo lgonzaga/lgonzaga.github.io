@@ -82,7 +82,7 @@ analytics:
 # Site Author
 author:
   name             : "Luiz Gonzaga Jr"
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   bio              : "I'm an adjunct professor at Unisinos University, South Brazil.
 I'm head of Vizlab  | visual computing & geoinformatics lab."
   location         : "Porto Alegre / RS / Brazil"
@@ -90,7 +90,7 @@ I'm head of Vizlab  | visual computing & geoinformatics lab."
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "lgonzaga@unisinos.br"
-  researchgate     : https://www.researchgate.net/profile/Luiz-Gonzaga-Da-Silveira-Jr" # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     : "https://www.researchgate.net/profile/Luiz-Gonzaga-Da-Silveira-Jr" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,14 +104,14 @@ I'm head of Vizlab  | visual computing & geoinformatics lab."
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/lgonzaga/"
+  linkedin         : "lgonzaga"
   orcid            : "http://orcid.org/0000-0002-7661-2447"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "lgonzaga"
   vine             :
   weibo            :
   xing             :
