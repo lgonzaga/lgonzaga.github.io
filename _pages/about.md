@@ -1,12 +1,14 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Luiz Gonzaga Jr"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+
 
  I'm an adjunct professor at Unisinos University, South Brazil. I'm founder and head of Vizlab | visual computing & geoinformatics lab. My research interests include immersive virtual reality, x-reality and explore multi-source data to address complex problems.
 
