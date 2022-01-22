@@ -2,4 +2,5 @@
 
  Currently I've approached on transforming education/learning of geology, biology and correlated areasm through immersive experiences; and,  exploring/correlating data from multiples remote sensors and laboratorial analysis mainly using ML/DL to predict quantitative parameters to the reservoir characterization.  
 
- I love writing codes, mainly in C++ and a few in Python, with  OpenGL, OpenCV, Unreal Engine and Pytorch, with special attention in virtual mixed reality technologies, such as, VR Glasses, XR/MR Glasses, Stereo Cameras, and Spherical Cameras.
+ I love writing codes, mainly in C++ and a few in Python, with  OpenGL, OpenCV, Unreal Engine and Pytorch. I have special interest in virtual and mixed reality technologies, as well as stereo and spherical images and spectral analysis.
+ 
