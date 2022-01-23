@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+Adjunct Professor
+Unisinos University, Polytechnic School
+
+Co-Founder, Head
+VIZLab (Visual Computing & GeoInformatics Lab)
 
 
 
