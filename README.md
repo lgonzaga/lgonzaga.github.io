@@ -4,6 +4,7 @@ Unisinos University, Polytechnic School
 Co-Founder, Head
 VIZLab (Visual Computing & GeoInformatics Lab)
 
+Teste
 
  I'm an adjunct professor at Unisinos University, South Brazil. I'm founder and head of Vizlab | visual computing & geoinformatics lab. My research interests include immersive virtual reality, x-reality and explore multi-source data to address complex problems.
 
