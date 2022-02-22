@@ -1,0 +1,15 @@
+---
+title: "Method for evaluating roughness and valley areas coefficients of surfaces acquired by laser scanner"
+collection: publications
+permalink: /publication/2022-01-roughness-laser-scanner
+excerpt: 'The quantitative determination of average roughness parameters, from the determination of height variations of the surface points, is frequently used to estimate the adhesion between an adhesive and the surface of a substrate. However, to determine the interaction between an adhesive and a surface of a heterogeneous material, such as a red ceramic, it is essential to define other roughness parameters. This work proposes a method for determining the roughness of red ceramic blocks from a three-dimensional evaluation, with the objective of estimating the contact area that the ceramic substrate can provide for a cementitious matrix. The study determines the average surface roughness from multiple planes and proposes the adoption of 2 more roughness parameters, the valley area index and the average valley area. The results demonstrate that there are advantages in using the proposed multiple plane method for roughness computation and that the valley area parameters are efficient to estimate the extent of adhesion between the materials involved.'
+date: 2022-01-01
+venue: 'Nature Scientific Reports'
+paperurl: 'https://doi.org/10.1038/s41598-022-04847-2'
+citation: 'Tonietto, L., Arnold, D.C.M., de Oliveira, V.C. et al. Method for evaluating roughness and valley areas coefficients of surfaces acquired by laser scanner. Sci Rep 12, 1486 (2022). https://doi.org/10.1038/s41598-022-04847-2'
+---
+The quantitative determination of average roughness parameters, from the determination of height variations of the surface points, is frequently used to estimate the adhesion between an adhesive and the surface of a substrate. However, to determine the interaction between an adhesive and a surface of a heterogeneous material, such as a red ceramic, it is essential to define other roughness parameters. This work proposes a method for determining the roughness of red ceramic blocks from a three-dimensional evaluation, with the objective of estimating the contact area that the ceramic substrate can provide for a cementitious matrix. The study determines the average surface roughness from multiple planes and proposes the adoption of 2 more roughness parameters, the valley area index and the average valley area. The results demonstrate that there are advantages in using the proposed multiple plane method for roughness computation and that the valley area parameters are efficient to estimate the extent of adhesion between the materials involved.
+
+[Download paper here](https://doi.org/10.1038/s41598-022-04847-2)
+
+Recommended citation: Tonietto, L., Arnold, D.C.M., de Oliveira, V.C. et al. Method for evaluating roughness and valley areas coefficients of surfaces acquired by laser scanner. Sci Rep 12, 1486 (2022). https://doi.org/10.1038/s41598-022-04847-2

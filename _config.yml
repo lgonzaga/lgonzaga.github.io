@@ -86,9 +86,9 @@ author:
   bio              : "I'm an adjunct professor at Unisinos University, South Brazil.
 I'm head of Vizlab  | visual computing & geoinformatics lab."
   location         : "Porto Alegre / RS / Brazil"
-  employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  employer         : "Unisinos University"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "lgonzaga@unisinos.br"
   researchgate     : "https://www.researchgate.net/profile/Luiz-Gonzaga-Da-Silveira-Jr" # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :

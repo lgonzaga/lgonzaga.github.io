@@ -1,0 +1,119 @@
+I"�<p>For a complete list of papers, access: <a href="https://www.researchgate.net/profile/Luiz-Gonzaga-Da-Silveira-Jr">https://www.researchgate.net/profile/Luiz-Gonzaga-Da-Silveira-Jr</a></p>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2022-02-01-paper-fire-covid" rel="permalink">Fire association with respiratory disease and COVID-19 complications in the State of Pará, Brazil.
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>The Lancet Regional Health - Americas Volume 6, February</i>, 2022 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>We employed machine learning technique for clustering k-means accompanied with the elbow method used to identify the ideal quantity of clusters for the k-means algorithm, clustering 10 groups of cities in the State of Pará where we selected the clusters with the highest and lowest fires occurrence from the 2015 to 2019. Next, an Auto-regressive Integrated Moving Average Exogenous (ARIMAX) model was proposed to study the serial correlation of respiratory diseases hospitalizations and their associations with fire occurrences. Regarding the COVID-19 analysis, we computed the mortality risk and its confidence level considering the quarterly incidence rate ratio in clusters with high and low exposure to fires.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation: Gonzaga Jr, L. <a href="https://doi.org/10.1016/j.lana.2021.100102"><u>https://doi.org/10.1016/j.lana.2021.100102</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2022-01-roughness-laser-scanner" rel="permalink">Method for evaluating roughness and valley areas coefficients of surfaces acquired by laser scanner
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>Nature Scientific Reports</i>, 2022 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>The quantitative determination of average roughness parameters, from the determination of height variations of the surface points, is frequently used to estimate the adhesion between an adhesive and the surface of a substrate. However, to determine the interaction between an adhesive and a surface of a heterogeneous material, such as a red ceramic, it is essential to define other roughness parameters. This work proposes a method for determining the roughness of red ceramic blocks from a three-dimensional evaluation, with the objective of estimating the contact area that the ceramic substrate can provide for a cementitious matrix. The study determines the average surface roughness from multiple planes and proposes the adoption of 2 more roughness parameters, the valley area index and the average valley area. The results demonstrate that there are advantages in using the proposed multiple plane method for roughness computation and that the valley area parameters are efficient to estimate the extent of adhesion between the materials involved.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation: Tonietto, L., Arnold, D.C.M., de Oliveira, V.C. et al. Method for evaluating roughness and valley areas coefficients of surfaces acquired by laser scanner. Sci Rep 12, 1486 (2022). https://doi.org/10.1038/s41598-022-04847-2 <a href="https://doi.org/10.1038/s41598-022-04847-2"><u>https://doi.org/10.1038/s41598-022-04847-2</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2021-10-01-pose-estimation" rel="permalink">Monocular multi-person pose estimation: A survey
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>Pattern Recognition</i>, 2021 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Multi-person pose estimation in unconstrained scenarios, with an unknown number of individuals, is a main step towards scene understanding and action recognition. Due to the recent advancements on the architecture of convolutional networks, body part detectors are now accurate and estimate poses in real-time for both single- and multi-person scenes. In contrast, assigning detected body parts to coherent human poses when there are multiple persons interacting is an arduous task. To name a few of the challenges that arise in such scenes: person-to-person occlusion, truncated body parts, and more sources for double counting. Recently, the community contributed towards solving most of them. Hence, it would be interesting to analyze and compile successful approaches from current literature into research trends, and identify possible gaps for future works. To the best of our knowledge, there is no up-to-date review on the main advancements in the field that target this particular set of challenges. This survey fills this gap by reviewing the main breakthroughs on multi-person pose estimation over the last decade and summarizing their impact on the state-of-the-art. Regarding scientific contributions, we propose a novel taxonomy that categorizes the reviewed methods according to their main contributions to the pose estimation pipeline, lists the main datasets and evaluation metrics to train new models, and provides insights on the best entries of publicly available benchmarks.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation: Eduardo Souza dos Reis, Lucas Adams Seewald, Rodolfo Stoffel Antunes, Vinicius Facco Rodrigues, Rodrigo da Rosa Righi, Cristiano André da Costa, Luiz Gonzaga da Silveira Jr., Bjoern Eskofier, Andreas Maier, Tim Horz, Rebecca Fahrig.  Monocular multi-person pose estimation: A survey, Pattern Recognition,Volume 118,2021,10804,ISSN 0031-3203,https://doi.org/10.1016/j.patcog.2021.108046. <a href="https://doi.org/10.1016/j.patcog.2021.108046"><u>https://doi.org/10.1016/j.patcog.2021.108046</u></a></p>
+    
+
+  </article>
+</div>
+
+<div class="list__item">
+  <article class="archive__item" itemscope="" itemtype="http://schema.org/CreativeWork">
+    
+
+    <h2 class="archive__item-title" itemprop="headline">
+      
+        <a href="http://localhost:4000/publication/2021-08-09-ia-data-snooping-1" rel="permalink">An artificial neural network-based critical values for multiple hypothesis testing: data-snooping case
+</a>
+      
+    </h2>
+    
+    
+
+        
+          <p>Published in <i>Survey Review</i>, 2021 </p>
+        
+
+    
+    <p class="archive__item-excerpt" itemprop="description"><p>Data Snooping is the most best-established method for identifying outliers in geodetic data analysis. It has been demonstrated in the literature that to effectively user-control the type I error rate, critical values must be computed numerically by means of Monte Carlo. Here, on the other hand, we provide a model based on an artificial neural network. The results prove that the proposed model can be used to compute the critical values and, therefore, it is no longer necessary to run the Monte Carlo-based critical value every time the quality control is performed by means of data snooping.</p>
+</p>
+    
+    
+    
+      <p>Recommended citation: Vinicius Francisco Rofatto, Marcelo Tomio Matsuoka, Ivandro Klein, Maria Luísa Silva Bonimani, Bruno Póvoa Rodrigues, Caio Cesar de Campos, Mauricio Roberto Veronez &amp; Luiz Gonzaga da Silveira Jr. (2021) An artificial neural network-based critical values for multiple hypothesis testing: data-snooping case, Survey Review, DOI: 10.1080/00396265.2021.1968176  <a href="https://doi.org/10.1080/00396265.2021.1968176"><u>https://doi.org/10.1080/00396265.2021.1968176</u></a></p>
+    
+
+  </article>
+</div>
+
+:ET
