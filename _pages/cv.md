@@ -11,30 +11,26 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering, UFPB Campus II (Current UFCG) University, 1992
+* M.S. in Electrical Engineering, State University of Campinas (UNICAMP), 1995
+* Ph.D in Computer Engineering, State University of Campinas (UNICAMP),  2005
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Adjunct Professor, Since 2004
+  * Unisinos University
+  * Duties included: Teaching, Supervise MSc and PhD Student, Research 
+  * Graduate Program in Applied Computing
+  * Graduate Program in Biology (collaboration)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Virtual Reality
+* Mixed Reality
+* Immersive Visualization 
+* Applied Computer Vision / Photogrammetry
+* Remote Sensing
+* Applied Machine / Deep Learning
 
 Publications
 ======
