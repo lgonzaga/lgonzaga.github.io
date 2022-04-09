@@ -14,6 +14,7 @@ Conteúdo programático da disciplina de Técnicas Avançadas de Computação Gr
 
 * Pipeline Gráfico / GPU
 * Physically-based Rendering (PBR)
+* Normal Mapping
 * Geração de Sombras
 * Iluminação Local e Iluminação Global
 * Image-based Rendering and Lighting
