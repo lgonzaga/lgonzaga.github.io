@@ -27,7 +27,10 @@ Conteúdo programático da disciplina de Técnicas Avançadas de Computação Gr
 ## Regras de conduta e honestidade acadêmica
 
 ## Referências
+* Tomas Akenine-Mller, Eric Haines, and Naty Hoffman. 2018. Real-Time Rendering, Fourth Edition (4th. ed.). A. K. Peters, Ltd., USA.<https://www.realtimerendering.com/>
+* Learn OpenGL <https://learnopengl.com/>
 
+## Referências (adicionais)
 * <https://blog.selfshadow.com/publications/s2013-shading-course/>
 * <https://www.pbrt.org/>
 * <https://www.youtube.com/playlist?list=PLPaoO-vpZnumdcb4tZc4x5Q-v7CkrQ6M->
