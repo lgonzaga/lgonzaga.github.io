@@ -29,7 +29,7 @@ Skills
 * Mixed Reality
 * Immersive Visualization 
 * Applied Computer Vision / Photogrammetry
-* Remote Sensing
+* Applied Remote Sensing
 * Applied Machine / Deep Learning
 
 Publications
