@@ -12,9 +12,8 @@ redirect_from:
   Head of
   VIZLab (Visual Computing & GeoInformatics Lab)
 
-I'm an adjunct professor at Unisinos University, South Brazil. I'm founder and head of Vizlab (visual computing \& geoinformatics lab). My research interests include immersive virtual reality, x-reality and explore multi-source data to address complex problems.
+As an Adjunct Professor at Unisinos University in South Brazil, I lead the Vizlab (Visual Computing & Geoinformatics Lab). My expertise lies in immersive virtual reality, x-reality, and leveraging multi-source data to tackle complex problems. At Vizlab, I've spearheaded projects focusing on technologies for petroleum geology, significantly advancing the field of immersive virtual geology.
 
-Currently I've approached on transforming education/learning of geology, biology and correlated areasm through immersive experiences; and,  exploring/correlating data from multiples remote sensors and laboratorial analysis mainly using ML/DL to predict quantitative parameters to the reservoir characterization.  
+My current focus includes transforming the education and learning experience in geology and biology through immersive technologies. This involves innovative approaches to integrate data from multiple remote sensors and laboratory analyses, primarily using Machine Learning and Deep Learning techniques. This work aims to predict quantitative parameters for reservoir characterization, achieving augmented geological modeling.
 
-I love writing codes, mainly in C++ and a few in Python, with  OpenGL, OpenCV, Unreal Engine and Pytorch. I have special interest in virtual and mixed reality technologies, as well as stereo and spherical images and spectral analysis.
- 
+I am proficient in coding, primarily in C++ and Python, and skilled in using tools like OpenGL, OpenCV, Unreal Engine, and PyTorch. My work often involves applying these skills to develop advanced applications in virtual and mixed reality, as well as in stereo and spherical image processing and spectral analysis. My passion for these technologies drives me to explore new frontiers in visual computing, significantly contributing to advancements in technologies for hyper immersive geology.
