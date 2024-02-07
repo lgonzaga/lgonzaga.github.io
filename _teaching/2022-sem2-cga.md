@@ -13,15 +13,16 @@ Conteúdo programático da disciplina de Técnicas Avançadas de Computação Gr
 ## Conteúdo
 
 * Pipeline Gráfico / GPU
+* Geometria e otimização (Tesselação)
 * Physically-based Rendering (PBR)
 * Normal Mapping / Parallax Mapping 
-* Image-based Rendering and Lighting
-* Deferred Shading
+* Image-based Lighting / Environment Mapping
 * Ambiente Occlusion
 * High-Dynamic Range
 * Virtual and Augmented Reality
 * Non-photorealistic Rendering (tópico de projeto)
-* Iluminação Global (tópico de projeto) 
+* Iluminação Global (tópico de projeto)
+* Tópicos adicionais (debuggin, profiling, otimização...etc)
 
 ##  Aprendizagem e Avaliações
 
