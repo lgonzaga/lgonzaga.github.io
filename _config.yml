@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Luiz Gonzaga Jr"
 title_separator          : "-"
 name                     : &name "Luiz Gonzaga da Silveira Jr"
-description              : &description "I'm an adjunct professor at Unisinos University, South Brazil.
+description              : &description "I'm  professor at Unisinos University, South Brazil.
 I'm head of Vizlab  | visual computing & geoinformatics lab."
 url                      : https://lgonzaga.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
