@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Adjunct Professor, Since 2004
+*  Professor, Since 2004
   * Unisinos University
   * Duties included: Teaching, Supervise MSc and PhD Student, Research 
   * Graduate Program in Applied Computing
