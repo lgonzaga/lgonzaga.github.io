@@ -29,6 +29,7 @@ Conteúdo programático da disciplina de Técnicas Avançadas de Computação Gr
 Aulas teóricas e práticas, bastando dispor de um computador com placa gráfica com suporte a OpenGL, compilador C/C++ (Visual Studio) e um conjunto de bibliotecas auxiliares (gratuitas). 1ª parte da aula é expositiva (exceto durante o projeto do grau B, que será para desenvolvimento do trabalho e apoio) e a segunda parte será prática e de fixação. Na segunda parte da aula haverá espaço para dúvidas e questões sobre as atividades práticas e conteúdo.
 
 Construção de conhecimento: dependência de atenção, visão crítica sobre o conteúdo e fixação através das atividades práticas
+
 Grau de dificuldade: alto (dependente do conhecimento anterior em processamento gráfico e comp. gráfica)
 
 Todas as avaliações serão individuais e organizadas da seguinte forma
