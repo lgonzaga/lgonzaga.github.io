@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course (online)"
 permalink: /teaching/2022-sem2-cga
 venue: "Unisinos, Digital Games Department"
-date: 2024-02-27
+date: 2024-02-07
 location: "Rio Grande do Sul, Brazil"
 ---
 
