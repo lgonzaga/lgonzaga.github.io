@@ -22,7 +22,7 @@ Conteúdo programático da disciplina de Técnicas Avançadas de Computação Gr
 * Virtual and Augmented Reality
 * Non-photorealistic Rendering (tópico de projeto)
 * Iluminação Global (tópico de projeto)
-* Tópicos adicionais (debuggin, profiling, otimização...etc)
+* Tópicos adicionais (debugging, profiling, otimização...etc)
 
 ##  Aprendizagem e Avaliações
 
