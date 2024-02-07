@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course (online)"
 permalink: /teaching/2022-sem2-cga
 venue: "Unisinos, Digital Games Department"
-date: 2022-02-27
+date: 2024-02-27
 location: "Rio Grande do Sul, Brazil"
 ---
 
@@ -42,7 +42,9 @@ Todas as avaliações serão individuais e organizadas da seguinte forma
 * Tomas Akenine-Mller, Eric Haines, and Naty Hoffman. 2018. Real-Time Rendering, Fourth Edition (4th. ed.). A. K. Peters, Ltd., USA.<https://www.realtimerendering.com/>
 * Hughes, J. F., van Dam, A., McGuire, M., Sklar, D. F., Foley, J. D., Feiner, S.,, Akeley, K. (2013). Computer Graphics: Principles and Practice. Upper Saddle River, NJ: Addison-Wesley. ISBN: 978-0-321-39952-6
 * Learn OpenGL <https://learnopengl.com/>
-* Gerdelan, A. Anton's OpenGL 4 Tutorials. Amazon.com Services LLC . P 553. 
+* Gerdelan, A. Anton's OpenGL 4 Tutorials. Amazon.com Services LLC . P 553.
+* Pharr, M et al. Physically Based Rendering, Fourth Edition. 2023. <https://pbrt.org/>
+  
 
 ## Referências (Complementar)
 * <https://blog.selfshadow.com/publications/s2013-shading-course/>
