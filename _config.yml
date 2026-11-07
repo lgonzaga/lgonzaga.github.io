@@ -10,12 +10,12 @@ locale                   : "en-US"
 title                    : "Luiz Gonzaga Jr"
 title_separator          : "-"
 name                     : &name "Luiz Gonzaga da Silveira Jr"
-description              : &description "I'm  professor at Unisinos University, South Brazil.
+description              : &description "I'm a professor at Unisinos University, South Brazil.
 I'm head of Vizlab  | visual computing & geoinformatics lab."
 url                      : https://lgonzaga.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lgonzaga/lgonzaga.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
@@ -74,7 +74,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -83,7 +83,7 @@ analytics:
 author:
   name             : "Luiz Gonzaga Jr"
   avatar           : "profile.png"
-  bio              : "I'm an adjunct professor at Unisinos University, South Brazil.
+  bio              : "I'm a professor at Unisinos University, South Brazil.
 I'm head of Vizlab  | visual computing & geoinformatics lab."
   location         : "Porto Alegre / RS / Brazil"
   employer         : "Unisinos University"
@@ -257,7 +257,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Sao_Paulo # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins

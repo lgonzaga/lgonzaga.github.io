@@ -6,8 +6,8 @@ author_profile: true
 ---
 For a complete list of papers, access: <https://www.researchgate.net/profile/Luiz-Gonzaga-Da-Silveira-Jr>   
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% if site.author.googlescholar %}
+  You can also find my articles on <u><a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</u>
 {% endif %}
 
 {% include base_path %}

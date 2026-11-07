@@ -2,7 +2,7 @@
 
 source "https://rubygems.org"
 
-gem 'wdm'
+gem 'wdm', platforms: [:mingw, :x64_mingw, :mswin]
 gem 'jekyll'
 gem 'tzinfo'
 gem 'tzinfo-data'
